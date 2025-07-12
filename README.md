@@ -1,7 +1,7 @@
 
 # 🧠 AssortMate
 
-**AssortMate** es una herramienta interactiva impulsada por inteligencia artificial que permite analizar archivos Excel de forma automatizada, enfocándose especialmente en datos de retail/farmacia. Utiliza el modelo de lenguaje de Groq para responder preguntas sobre los datos, identificar patrones y generar recomendaciones para optimizar el surtido de productos.
+**AssortMate** es una herramienta interactiva impulsada por inteligencia artificial que permite analizar archivos Excel de forma automatizada, enfocándose especialmente en datos de retail. Utiliza el modelo de lenguaje de Groq para responder preguntas sobre los datos, identificar patrones y generar recomendaciones para optimizar el surtido de productos.
 
 ## 🚀 Funcionalidades principales
 
