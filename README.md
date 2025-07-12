@@ -1,7 +1,7 @@
 
-# 🧠 ExcelAnalyzerAgent
+# 🧠 AssortMate
 
-**ExcelAnalyzerAgent** es una herramienta interactiva impulsada por inteligencia artificial que permite analizar archivos Excel de forma automatizada, enfocándose especialmente en datos de retail/farmacia. Utiliza el modelo de lenguaje de Groq para responder preguntas sobre los datos, identificar patrones y generar recomendaciones para optimizar el surtido de productos.
+**AssortMate** es una herramienta interactiva impulsada por inteligencia artificial que permite analizar archivos Excel de forma automatizada, enfocándose especialmente en datos de retail/farmacia. Utiliza el modelo de lenguaje de Groq para responder preguntas sobre los datos, identificar patrones y generar recomendaciones para optimizar el surtido de productos.
 
 ## 🚀 Funcionalidades principales
 
@@ -22,27 +22,6 @@
 
 ```env
 GROQ_API_KEY=tu_clave_aqui
-```
-
-## 📦 Instalación
-
-1. Cloná el repositorio:
-
-```bash
-git clone https://github.com/tu_usuario/ExcelAnalyzerAgent.git
-cd ExcelAnalyzerAgent
-```
-
-2. Instalá las dependencias:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Ejecutá el script:
-
-```bash
-python excel_analyzer_agent.py
 ```
 
 ## 📁 Estructura del proyecto
@@ -72,7 +51,3 @@ python excel_analyzer_agent.py
 ## 🛡️ Notas de seguridad
 
 Este proyecto utiliza claves API externas. **Nunca compartas tu archivo `.env` ni subas tu clave API a un repositorio público**.
-
-## 📄 Licencia
-
-MIT © [Tu nombre o usuario]
